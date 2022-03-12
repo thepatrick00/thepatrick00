@@ -28,7 +28,7 @@
 <br />
 
 <details>
-  <summary>👨‍💻 CodeWars Stats</summary>
+  <summary>:zap: CodeWars Stats</summary>
 
   <a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
 
