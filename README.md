@@ -26,20 +26,18 @@
 <br />
 <br />
 <br />
-<br />
 
+<details>
+  <summary>👨‍💻 Codewars Stats</summary>
+
+  <a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
+
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="PatrickCodes_'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thepatrick00&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-<details>
-  <summary>:zap: Codewars Stats</summary>
 
-  <a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
-
-</details>
-
-[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/PatrickCodes_
