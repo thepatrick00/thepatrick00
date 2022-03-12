@@ -28,17 +28,17 @@
 <br />
 
 <details>
-  <summary>:zap: CodeWars Stats</summary>
-
-  <a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
-
-</details>
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=thepatrick00&show_icons=true&locale=en&theme=monokai" alt="thepatrick00" style="width:50%"/><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=thepatrick00&theme=monokai" alt="abd-beltaji" style="width:50%"/>
+
+</details>
+<details>
+  <summary>:zap: CodeWars Stats</summary>
+
+  <a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
 
 </details>
 
