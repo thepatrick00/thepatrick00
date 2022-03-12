@@ -36,11 +36,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thepatrick00&theme=monokai" alt="stats" style="width:100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thepatrick00&theme=monokai" style="width:50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thepatrick00&theme=monokai" style="width:50%">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=thepatrick00&show_icons=true&locale=en&theme=monokai" alt="thepatrick00" style="width:50%"/><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=thepatrick00&theme=monokai" alt="abd-beltaji" style="width:50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thepatrick00&theme=monokai" style="width:50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thepatrick00&theme=monokai" style="width:50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thepatrick00&theme=monokai" alt="stats" style="width:100%" />
 
 </details>
 
