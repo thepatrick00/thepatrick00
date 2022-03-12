@@ -23,6 +23,9 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://twitter.com/PatrickCodes_#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://twitter.com/PatrickCodes_#gh-dark-mode-only)
 
+<br />
+<br />
+
 ---
 
 <details>
