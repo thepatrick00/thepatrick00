@@ -7,6 +7,6 @@
 - 📫 How to reach me → Email: patrick@meetpatrick.dev || Twitter: https://twitter.com/PatrickCodes_
 - ⚡ Fun fact: I start learning to code seriously on September 2021.
 
-<a href="https://www.codewars.com/users/thepatrick00/stats" target="_blank"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=thepatrick00&&show_icons=true&title_color=ffffff&icon_color=ecb613&text_color=e8e8e8&bg_color=303133">
+<a href="https://www.codewars.com/users/thepatrick00/stats"><img src="https://www.codewars.com/users/thepatrick00/badges/large"></a>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=thepatrick00&&show_icons=true&title_color=ffffff&icon_color=ecb613&text_color=e8e8e8&bg_color=303133"> -->
 
