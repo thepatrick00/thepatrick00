@@ -36,7 +36,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PatrickCodes_'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thepatrick00&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thepatrick00&theme=monokai" alt="stats" style="width:100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thepatrick00&theme=monokai" style="width:50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thepatrick00&theme=monokai" style="width:50%">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=thepatrick00&show_icons=true&locale=en&theme=monokai" alt="thepatrick00" style="width:50%"/><img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thepatrick00&theme=monokai" alt="abd-beltaji" style="width:50%"/>
 
 </details>
 
