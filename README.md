@@ -7,8 +7,6 @@
 - 📫 How to reach me → Email: patrick@meetpatrick.dev → Twitter: https://twitter.com/PatrickCodes_
 - ⚡ Fun fact: I enjoy soccer and am one of the few people who watch the MLS (US soccer league) :)
 
-<br />
-
 ### My Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][twitter]
