@@ -1,11 +1,11 @@
 ### Hi there, I'm Patrick! 👋
 
-- 🔭 I’m currently working on a Pomodoro App.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Github.
-- 💬 Ask me about HTML, CSS, JavaScript, Scrimba Course, Freemote Course, Hashlips Art Engine, YouTube, or any other tech related stuff.
+- 🔭 I’m currently working on a Quiz App called Quizzical. You can view it live here https://kolzar.com
+- 🌱 I have my React fundamentals down and now I'm improving further.
+- 💬 I’m on the job hunt for a frontend dev position.
+- 👯 I help people in the Scrimba Discord community with their code problems.
 - 📫 How to reach me → Email: patrick@meetpatrick.dev → Twitter: https://twitter.com/PatrickCodes_
-- ⚡ Fun fact: I enjoy soccer and am one of the few people who watch the MLS (US soccer league) :)
+- ⚡ Fun fact: I drink around 5000ml(1.3gallons) of water a day, I also enjoy soccer.
 
 ---
 
