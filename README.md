@@ -9,8 +9,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepatrick00&layout=compact)](https://github.com/thepatrick00/github-readme-stats)
-
 ### My Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][twitter]
