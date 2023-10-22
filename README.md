@@ -1,9 +1,8 @@
 ### Hi there, I'm Patrick! 👋
 
-- 🔭 I’m currently working on a Quiz App called Quizzical. You can view it live here https://kolzar.com
-- 🌱 I have my React fundamentals down and now I'm improving further.
+- 🔭 I’m currently working on my own Shopify store, and working as a Shopify Freelancer.
+- 🌱 I know Next.js and am interested in learning Remix.
 - 💬 I’m on the job hunt for a frontend dev position.
-- 👯 I help people in the Scrimba Discord community with their code problems.
 - 📫 How to reach me → Email: patrick@meetpatrick.dev → Twitter: https://twitter.com/PatrickCodes_
 - ⚡ Fun fact: I drink around 5000ml(1.3gallons) of water a day, I also enjoy soccer.
 
